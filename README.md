@@ -69,7 +69,7 @@
   <table>
     <tr>
       <td>
-        <h1>🚀 See you, Space Cowboy...</h1>
+        <h1>See you, Space Cowboy...</h1>
         <a href="https://open.spotify.com/user/gdyzuj443dkoxdlckdfnjkkm2">
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=gdyzuj443dkoxdlckdfnjkkm2&count=3&unique=true" />
         </a>
