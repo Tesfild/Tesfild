@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">🌿| Conheça um pouco mais sobre mim / Get to know a little about myself.</h4>
+<h3 align="left">🌿| Conheça um pouco mais sobre mim / Get to know a little about myself.</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif"  />
+<img align="right" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif"  />
 
 ###
 
