@@ -8,19 +8,11 @@
 
 ###
 
-<p align="left">🇧🇷 | Olá! Me chamo Rebeka Victória, tenho 20 anos e atualmente curso o 4º período de Engenharia de Software na Universidade de Vassouras.<br><br>
-Acredito que criar é um poder essencialmente humano; está em nossa natureza imaginar, construir e transformar o mundo à nossa própria forma. A programação carrega em si um poder artístico muito sutil, silencioso: o de moldar o invisível, de dar forma ao intangível e dar vida ao impossível. Cada sistema, cada interface, cada solução bem pensada é, antes de tudo, uma obra construída com as mãos e a mente, um desejo da nossa alma de criar o novo, de resolver o complexo, de deixar uma marca. Existir.<br><br>
-Eu enxergo isso. E assim, costumo dizer que antes mesmo do título, já era engenheira. E que não havia outro caminho para mim se não o desenvolvimento Full-Stack e UX/UI design.<br><br>
-Tenho me dedicado atualmente ao aprendizado de tecnologias como C#, ASP.NET Core, Entity Framework, SQL Server e tenho um carinho especial e oculto por GameDev, com uma certa curiosidade por Unity, confesso. 👀<br><br>
-No fim das contas, programar é a minha forma de me expressar, de dizer silenciosamente para o mundo quem eu sou. Busco unir a lógica à sensibilidade, a expressão à precisão e entregar o melhor de mim em cada linha. Esse é o futuro. Fazemos parte dele.</p>
+<p align="left">🇧🇷 | Olá! Me chamo Rebeka Victória, tenho 20 anos e atualmente curso o 4º período de Engenharia de Software na Universidade de Vassouras.<br><br>Acredito que criar é um poder essencialmente humano; está em nossa natureza imaginar, construir e transformar o mundo à nossa própria forma. A programação carrega em si um poder artístico muito sutil, silencioso: o de moldar o invisível, de dar forma ao intangível e dar vida ao impossível. Cada sistema, cada interface, cada solução bem pensada é, antes de tudo, uma obra construída com as mãos e a mente, um desejo da nossa alma de criar o novo, de resolver o complexo, de deixar uma marca. Existir.<br><br>Eu enxergo isso. E assim, costumo dizer que antes mesmo do título, já era engenheira. E que não havia outro caminho para mim se não o desenvolvimento Full-Stack e UX/UI design.<br><br>Tenho me dedicado atualmente ao aprendizado de tecnologias como C#, ASP.NET Core, Entity Framework, SQL Server e tenho um carinho especial e oculto por GameDev, com uma certa curiosidade por Unity, confesso. 👀<br><br>No fim das contas, programar é a minha forma de me expressar, de dizer silenciosamente para o mundo quem eu sou. Busco unir a lógica à sensibilidade, a expressão à precisão e entregar o melhor de mim em cada linha. Esse é o futuro. Fazemos parte dele.</p>
 
 ###
 
-<p align="left">🇺🇸 | Hello! My name is Rebeka Victória, I’m 20 years old and currently studying Software Engineering in my 4th semester at Universidade de Vassouras.<br><br>
-I believe that creation is an essentially human power; it’s in our nature to imagine, build, and transform the world in our own way. Programming carries within it a very subtle, silent artistic power: the power to shape the invisible, to give form to the intangible, and to bring the impossible to life. Every system, every interface, every well-thought-out solution is, above all, a work built with hands and mind, a desire of our soul to create something new, to solve complexity, to leave a mark. To exist.<br><br>
-I see this clearly. And so, I often say that even before the title, I was already an engineer. And that there was no other path for me than Full-Stack development and UX/UI design.<br><br>
-Currently, I’m dedicating myself to learning technologies like C#, ASP.NET Core, Entity Framework, SQL Server, and I have a special, secret fondness for GameDev, with a certain curiosity about Unity, I must admit. 👀<br><br>
-At the end of the day, programming is my way of expressing myself, silently telling the world who I am. I strive to unite logic with sensitivity, expression with precision and give the best of myself in every line of code. This is the future. We are part of it.</p>
+<p align="left">🇺🇸 | Hello! My name is Rebeka Victória, I’m 20 years old and currently studying Software Engineering in my 4th semester at Universidade de Vassouras.<br><br>I believe that creation is an essentially human power; it’s in our nature to imagine, build, and transform the world in our own way. Programming carries within it a very subtle, silent artistic power: the power to shape the invisible, to give form to the intangible, and to bring the impossible to life. Every system, every interface, every well-thought-out solution is, above all, a work built with hands and mind, a desire of our soul to create something new, to solve complexity, to leave a mark. To exist.<br><br>I see this clearly. And so, I often say that even before the title, I was already an engineer. And that there was no other path for me than Full-Stack development and UX/UI design.<br><br>Currently, I’m dedicating myself to learning technologies like C#, ASP.NET Core, Entity Framework, SQL Server, and I have a special, secret fondness for GameDev, with a certain curiosity about Unity, I must admit. 👀<br><br>At the end of the day, programming is my way of expressing myself, silently telling the world who I am. I strive to unite logic with sensitivity, expression with precision and give the best of myself in every line of code. This is the future. We are part of it.</p>
 
 ###
 
@@ -60,46 +52,54 @@ At the end of the day, programming is my way of expressing myself, silently tell
 
 <br clear="both">
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img align="left" height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" />
-
-  <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tesfild&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="150" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tesfild&locale=en&hide_title=true&layout=compact&card_width=280&langs_count=5&theme=moltack&hide_border=true&order=2" height="130" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="left" height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tesfild&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="160" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tesfild&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=5&theme=moltack&hide_border=true&order=2" height="140" />
+    </td>
+  </tr>
+</table>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">See you, Space Cowboy...</h1>
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzZGhkZjA5a3g3bndmdjFta2wzaGlwdmNsbmh6ZTFiejY1aXg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4MxLhxhOqCqYw/giphy.gif" />
-
-  <div align="center">
-    <a href="https://open.spotify.com/user/gdyzuj443dkoxdlckdfnjkkm2">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=gdyzuj443dkoxdlckdfnjkkm2&count=3&unique=true" alt="Spotify recently played" />
-    </a>
-
-    <br><br>
-
-    <a href="https://www.linkedin.com/in/rkvictoria/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
-    </a>
-    <a href="mailto:rebekavictoriabs@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
-    </a>
-    <a href="https://www.instagram.com/rebbekka_/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" />
-    </a>
-    <a href="https://discordapp.com/users/reyvolucion" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" />
-    </a>
-    <a href="https://tesfild.itch.io/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="left" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzZGhkZjA5a3g3bndmdjFta2wzaGlwdmNsbmh6ZTFiejY1aXg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4MxLhxhOqCqYw/giphy.gif" />
+    </td>
+    <td>
+      <a href="https://open.spotify.com/user/gdyzuj443dkoxdlckdfnjkkm2">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=gdyzuj443dkoxdlckdfnjkkm2&count=3&unique=true" />
+      </a>
+      <br><br>
+      <div>
+        <a href="https://www.linkedin.com/in/rkvictoria/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+        </a>
+        <a href="mailto:rebekavictoriabs@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+        </a>
+        <a href="https://www.instagram.com/rebbekka_/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+        </a>
+        <a href="https://discord.com/users/reyvolucion" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+        </a>
+        <a href="https://tesfild.itch.io/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="40" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
