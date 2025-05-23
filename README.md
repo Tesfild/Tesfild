@@ -70,18 +70,13 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<img align="right" height="380" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif"  />
 
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tesfild&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tesfild&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="180" alt="languages graph" />
-  </div>
+###
 
-  <div style="width: 48%; text-align: right;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" height="380" alt="gif" />
-  </div>
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tesfild&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tesfild&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -117,3 +112,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
 </div>
+
+###
