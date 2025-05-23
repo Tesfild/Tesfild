@@ -75,7 +75,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tesfild&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tesfild&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true&order=1" height="160" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tesfild&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
