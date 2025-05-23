@@ -69,37 +69,39 @@
 
 <br clear="both">
 
-<h1 align="left">See you, Space Cowboy...</h1>
+<h1 align="center">See you, Space Cowboy...</h1>
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <img align="left" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzZGhkZjA5a3g3bndmdjFta2wzaGlwdmNsbmh6ZTFiejY1aXg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4MxLhxhOqCqYw/giphy.gif" />
-    </td>
-    <td>
-      <a href="https://open.spotify.com/user/gdyzuj443dkoxdlckdfnjkkm2">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=gdyzuj443dkoxdlckdfnjkkm2&count=3&unique=true" />
-      </a>
-      <br><br>
-      <div>
-        <a href="https://www.linkedin.com/in/rkvictoria/" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="left" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzZGhkZjA5a3g3bndmdjFta2wzaGlwdmNsbmh6ZTFiejY1aXg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4MxLhxhOqCqYw/giphy.gif" />
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/gdyzuj443dkoxdlckdfnjkkm2">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=gdyzuj443dkoxdlckdfnjkkm2&count=3&unique=true" />
         </a>
-        <a href="mailto:rebekavictoriabs@gmail.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
-        </a>
-        <a href="https://www.instagram.com/rebbekka_/" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
-        </a>
-        <a href="https://discord.com/users/reyvolucion" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
-        </a>
-        <a href="https://tesfild.itch.io/" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="40" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+        <br><br>
+        <div>
+          <a href="https://www.linkedin.com/in/rkvictoria/" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+          </a>
+          <a href="mailto:rebekavictoriabs@gmail.com" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+          </a>
+          <a href="https://www.instagram.com/rebbekka_/" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+          </a>
+          <a href="https://discord.com/users/reyvolucion" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+          </a>
+          <a href="https://tesfild.itch.io/" target="_blank">
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="40" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
