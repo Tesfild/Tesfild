@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img align="right" height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif"  />
+<img align="right" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJnOWs0YzE3emNydG9qbmtuYnhkMHE0bWlwcDJtNjExZW8yMDlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif"  />
 
 ###
 
