@@ -34,4 +34,4 @@
 
 ###
 
-<h1 align="left">See you, Space Cowboy...</h1>
+<h1 align="center">See you, Space Cowboy...</h1>
