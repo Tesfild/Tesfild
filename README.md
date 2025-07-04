@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,lua,unity,dotnet,visualstudio,rider" />
+    <img src="https://skillicons.dev/icons?i=lua,cs,dotnet,visualstudio,rider,unity" />
   </a>
 </p>
 
